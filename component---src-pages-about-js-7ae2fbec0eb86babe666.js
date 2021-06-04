@@ -1,0 +1,2 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[682],{5518:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return l}});var u=t(7294);function l(){return u.createElement("div",null,"Hello world")}}}]);
+//# sourceMappingURL=component---src-pages-about-js-7ae2fbec0eb86babe666.js.map
