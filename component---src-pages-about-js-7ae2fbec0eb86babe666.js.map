@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://website/./src/pages/about.js"],"names":["Index"],"mappings":"kKACe,SAASA,IACtB,OAAO","file":"component---src-pages-about-js-7ae2fbec0eb86babe666.js","sourcesContent":["import * as React from \"react\"\nexport default function Index() {\n  return <div>Hello world</div>\n}"],"sourceRoot":""}
